@@ -1,5 +1,5 @@
 services:
-  - typr: web
+  - type: web
     name: WDN-Backend
     runtime: python
     plan: free
